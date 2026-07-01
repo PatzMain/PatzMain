@@ -35,8 +35,6 @@ I'm a **full-stack developer** from the Philippines who builds across a wide spe
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -92,19 +90,6 @@ I'm a **full-stack developer** from the Philippines who builds across a wide spe
 |---------|-------------|-------|------|
 | **⚔️ Arcanora** | Fully-featured Discord MMORPG — turn-based combat, world map, dungeon crawling, quests, economy, guilds, pets, and crafting. All within Discord. | TypeScript, discord.js v14, PostgreSQL, Drizzle ORM | [GitHub](https://github.com/PatzMain/Arcanora) |
 | **🏥 Meditrack** | Offline-first clinic inventory desktop app — dashboard analytics, multi-role auth, audit logging, archive system, and Excel/PDF/Word export. | React, TypeScript, Electron, Chart.js | [GitHub](https://github.com/PatzMain/Meditrack-APP) |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PatzMain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatzMain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PatzMain&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</p>
 
 ---
 
