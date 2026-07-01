@@ -12,7 +12,6 @@
   <a href="https://github.com/PatzMain">
     <img src="https://img.shields.io/github/stars/PatzMain?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff" alt="Stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=PatzMain&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Profile Views" />
 </p>
 
 ---
