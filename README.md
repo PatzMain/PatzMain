@@ -1,5 +1,8 @@
 <a href="https://github.com/PatzMain">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey%2C+I'm+John+Patrick+C.+Codilla" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=4000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=120&lines=John+Patrick+C.+Codilla;Full-Stack+Developer;AI+%26+Game+Development+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </a>
 
 <p align="center">
