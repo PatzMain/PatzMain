@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **full-stack developer** from the Philippines who builds across a wide spectrum — from Discord MMORPG bots with turn-based combat systems, to full-scale social media platforms, to modular AI skill frameworks. I write strict TypeScript, care deeply about clean architecture and UI/UX, and ship everything to production. My creative side lives in game development with Unity, Blender, and Godot — because systems should be both functional and beautiful.
+I'm a **full-stack developer** from the Philippines who likes building ambitious projects. I've worked on Discord MMORPG bots, social platforms, AI-powered systems, and developer tools. I mainly use TypeScript and enjoy designing software that's easy to maintain, scales well, and feels good to use. When I'm not working on web apps, you'll usually find me experimenting with Unity, Godot, or Blender.
 
 ---
 
