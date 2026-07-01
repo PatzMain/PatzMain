@@ -110,6 +110,9 @@ I'm a **full-stack developer** from the Philippines who builds across a wide spe
   <a href="https://www.facebook.com/whyso.good.hehe/">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  <a href="https://jpc-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-2C2C2C?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTIiIGZpbGw9IiMyQzJDMkMiLz48dGV4dCB4PSIzMiIgeT0iNDQiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI0M4OTczRSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+SlBDPC90ZXh0Pjwvc3ZnPg==&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
