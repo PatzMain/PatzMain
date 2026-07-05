@@ -79,17 +79,6 @@ I'm a **full-stack developer** from the Philippines who likes building ambitious
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **⚔️ Arcanora** | Fully-featured Discord MMORPG — turn-based combat, world map, dungeon crawling, quests, economy, guilds, pets, and crafting. All within Discord. | TypeScript, discord.js v14, PostgreSQL, Drizzle ORM | [GitHub](https://github.com/PatzMain/Arcanora) |
-| **🏥 Meditrack** | Offline-first clinic inventory desktop app — dashboard analytics, multi-role auth, audit logging, archive system, and Excel/PDF/Word export. | React, TypeScript, Electron, Chart.js | [GitHub](https://github.com/PatzMain/Meditrack-APP) |
-| **🏢 WorkForceHub** | Enterprise-grade Employee Management System built on Clean Architecture (Onion) — dynamic dashboard, leave management, payroll processing, role-based auth, and 45 automated tests. | ASP.NET Core MVC, .NET 8, EF Core, SQLite, Chart.js | [GitHub](https://github.com/PatzMain/WorkForceHub) |
-| **🏠 PropFlow** | Production-quality Property Management SaaS showcase — KPI dashboard, tenant profiles, lease agreements, payments ledger, maintenance ticketing, and analytics reports. | Laravel (PHP 8.2+), Alpine.js, Blade, Chart.js, Vite | [GitHub](https://github.com/PatzMain/PropFlow) |
-
----
-
 ## 📬 Connect
 
 <p align="center">
