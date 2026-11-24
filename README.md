@@ -12,7 +12,7 @@ I build web applications, offline tools, and game systems with TypeScript, C#, a
 | --- | --- | --- |
 | **WorkForceHub** | Employee records, leave approvals, and payroll workflows with role and record-ownership checks. Built with ASP.NET Core MVC, EF Core, and SQLite. | [Public repository](https://github.com/PatzMain/WorkForceHub) |
 | **PropFlow** | Property, tenant, lease, payment, and maintenance management in a shared staff workspace. Built with Laravel, Blade, Alpine.js, and SQLite. | [Public repository](https://github.com/PatzMain/PropFlow) |
-| **QRFOLIO** | An offline-first QR workspace for creating, scanning, organizing, and backing up QR codes in the browser. Built with React, TypeScript, and IndexedDB. | Private repository |
+| **QRFOLIO** | An offline-first QR workspace for creating, scanning, organizing, and backing up QR codes in the browser. Built with React, TypeScript, and IndexedDB. | [Public repository](https://github.com/PatzMain/QRFOLIO) |
 | **ForgePixels** | A pixel-art studio with browser-local projects and a separate collaborative World canvas. Built with React, TypeScript, IndexedDB, and Convex. | Private repository |
 | **Meditrack Offline** | A desktop clinic inventory app with local accounts, stock tracking, archive/restore, and spreadsheet exports. Built with React, TypeScript, and Electron; demonstrated with synthetic records. | [Earlier public source](https://github.com/PatzMain/Meditrack-APP) |
 | **Arcanora Discord RPG** | A Discord fantasy RPG with turn-based combat, progression, an economy, and persistent businesses. Built with TypeScript, discord.js, PostgreSQL, and Drizzle ORM. | [Public repository](https://github.com/PatzMain/Arcanora) |
